@@ -1,7 +1,5 @@
 import 'package:aioapp/Pages/InitialScreen.dart';
-import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
-import 'package:flutter/widgets.dart';
 
 class MainApp extends StatefulWidget {
   const MainApp({super.key});
