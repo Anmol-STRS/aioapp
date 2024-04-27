@@ -17,7 +17,7 @@ class _InitialScreenState extends State<InitialScreen> {
         centerTitle: true,
         titleTextStyle: GoogleFonts.roboto(
           textStyle: const TextStyle(
-            fontSize: 40,
+            fontSize: 50,
             fontWeight: FontWeight.bold
           ),
         ),
